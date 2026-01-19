@@ -26,7 +26,7 @@ Actualmente profundizo en:
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=elmoche150&theme=react-dark)
 - [LibroxLibro](https://github.com/Tastor2k2/TPG-IDS) – intercambio de libros
 - [MiPaginaWeb](https://github.com/elmoche150/mi_pagina_web) – Mi propia pagina web
-- [BnadidadWEB](https://github.com/elmoche150/bandidas_web) – sistema basico de gestión gastronómica
+- [BnadidasWEB](https://github.com/elmoche150/bandidas_web) – sistema basico de gestión gastronómica
 ---
 ## 🛠️Tecnologías
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmoche150&layout=compact&theme=radical)
