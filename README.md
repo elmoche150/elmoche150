@@ -1,6 +1,7 @@
 # Pedro Perez Mochetti
 
-## 🧠 Sobre mí
+## Sobre mí
+<img src="assets/yo.gif" width="400" />
 Soy Pedro (Moche), estudiante de Ingeniería en Informática (FIUBA) y desarrollador en formación, con foco en crear soluciones reales para problemas reales.
 Me interesa especialmente el desarrollo full stack, la arquitectura cliente-servidor y el despliegue de aplicaciones en la nube.
 
